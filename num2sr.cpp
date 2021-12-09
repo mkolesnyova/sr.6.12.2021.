@@ -43,5 +43,5 @@ int main()
 		k += m;
 	}
 	cout << "summa vsyeh elementov blokov = " << k;
-
+	return(0);
 }
