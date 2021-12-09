@@ -32,10 +32,10 @@ int main()
 		cin >> x2;
 		cout << "nomer levogo stolbca 1-go elementa\n";
 		cout << " y1= ";
-		cin >> x1;
+		cin >> y1;
 		cout << "nomer pravogo stolbca 2-go elementa\n";
 		cout << " y2= ";
-		cin >> x2;
+		cin >> y2;
 		for (i = x1; i <= x2; i++)
 			for (j = y1; j <= y2; j++)
 				m += a[i][j];
