@@ -27,12 +27,12 @@ int main()
 		cout << "nomer verhney stroky 1-go elementa\n";
 		cout << " x1= ";
 		cin >> x1;
-		cout << "nomer nizhney stroky 2-go elementa\n";
-		cout << " x2= ";
-		cin >> x2;
 		cout << "nomer levogo stolbca 1-go elementa\n";
 		cout << " y1= ";
 		cin >> y1;
+		cout << "nomer nizhney stroky 2-go elementa\n";
+		cout << " x2= ";
+		cin >> x2;
 		cout << "nomer pravogo stolbca 2-go elementa\n";
 		cout << " y2= ";
 		cin >> y2;
