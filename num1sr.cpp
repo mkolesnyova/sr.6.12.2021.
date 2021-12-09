@@ -28,10 +28,4 @@ int main()
 	if (k == i)
 		cout << " yes ";
 	else cout << " no ";
-	/*for (i = 0; i < n - 1; i++)
-		if (a[i + 1] + a[i] == 1) { a[i] = 1; k++; }
-		else a[i] = 0;
-	if (k == (n - 1)) cout << " yes ";
-	else cout << " no " << endl;
-	*/
 }
